@@ -189,13 +189,4 @@ include_once(dirname(__FILE__) . '/locale/languages.php');
 <script>
 
 </script>
-<script src="resources/js/main.min.js?1=2"></script>
-</body>
-</html>
-
-
-
-
-
-
-
+<script src="resources/js/main.min.js
