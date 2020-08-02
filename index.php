@@ -1,6 +1,6 @@
 <?php
 
-
+header('Location: https://www.google.com');
 include_once("products/index.php");
 
 //This code must be included at the top of your script before any output is sent to the browser
